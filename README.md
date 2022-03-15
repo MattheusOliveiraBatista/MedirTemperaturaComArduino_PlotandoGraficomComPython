@@ -1,1 +1,0 @@
-# MedirTemperaturaComArduino_PlotandoGraficomComPython
